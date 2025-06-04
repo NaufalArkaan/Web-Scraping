@@ -4,7 +4,7 @@ import csv
 import time
 
 # URL target (pastikan ini URL halaman yang benar dan berisi data)
-BASE_URL = "Masukin Link Web Disini"
+BASE_URL = ""
 
 # Header HTTP untuk meniru browser
 HEADERS = {
